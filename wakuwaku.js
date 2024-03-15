@@ -5,6 +5,3 @@
             script.setAttribute('data-bot-id', '15504'); 
             document.body.appendChild(script);
         }
-
-        // Load the script when the webpage is loaded
-        window.onload = loadChatPluginScript;
